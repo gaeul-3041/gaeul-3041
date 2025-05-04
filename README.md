@@ -62,6 +62,7 @@
 ## Certifications
 - 🛠️ 정보처리기사 | 2024.09.10
 - 🤖 AICE (AI Certificate for Everyone) | 2025.01.24
+- 🗣️ OPIc IH | 2025.03.14
 
 ---
 
