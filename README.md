@@ -1,6 +1,6 @@
 # Welcome to Hyun's Github 👋
 
-## My Github Stats
+## My Github & Baekjoon Stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gaeul-3041&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lucy3041)](https://solved.ac/lucy3041/)
@@ -9,22 +9,22 @@
 
 ## 💼 Experiences
 
-### 🏢 KT 미디어부문 체험형 인턴 수료 | 2025.06.04 (예정)
+### 🏢 KT 미디어부문 체험형 인턴 | 2025.04.28 – 2025.06.04 (예정)
 - RAG, LangChain, MCP 등 LLM/Vision 부문의 최신 AI 기술 학습 및 관련 프로젝트 수행.  
 - 현업 프로젝트에 참여하여 OOO 기능 구현에 기여.
 
-### 🧠 KT AIVLE School 6기 – AI개발자 트랙 | 2025.02.26  
+### 🧠 KT AIVLE School 6기 – AI개발자 트랙 | 2024.09.03 – 2025.02.26  
 - 데이터 분석, 머신러닝/딥러닝, 웹 개발 등 실무 이론 및 프로젝트 중심 커리큘럼 이수.
 - 총 8회의 프로젝트 수행 및 4회의 팀 리딩 경험.
 
-### 🎓 부산대학교 정보컴퓨터공학부 졸업 | 2024.02.23  
+### 🎓 부산대학교 정보컴퓨터공학부 | 2018.03.02 – 2024.02.23  
 - 캡스톤 디자인 외 다양한 전공 기반 프로젝트 수행.
 
 ---
 
 ## 🚀 Projects
 
-### 📡 DABS: Daily AI Briefing Service
+### 📡 [DABS: Daily AI Briefing Service](https://github.com/BrightAsh/Daily_AI_Briefing_Service)
 - 기간: 2025.04.28 – 2025.05.08 (~ing)  
 - 내용: LLM + RAG 기반 AI 뉴스 및 최신 AI 관련 논문 요약 및 리포팅 자동화 서비스  
 - 기술:  
@@ -32,7 +32,7 @@
   ![RAG](https://img.shields.io/badge/RAG-FF9900?style=flat&logo=OpenAI&logoColor=white)  
 - 역할: 논문 PDF 파싱 및 VectorDB 저장 기능 구현  
 
-### 📘 Fiction2Toon: 생성형 AI를 이용한 도서 마케팅 서비스
+### 📘 [Fiction2Toon: 생성형 AI를 이용한 도서 마케팅 서비스](https://github.com/gaeul-3041/Fiction2Toon)
 - 기간: 2024.12 – 2025.02  
 - 내용: 도서 원문 데이터를 입력하면 웹툰 생성 AI를 통해 웹툰을 제작해주는 Spring 기반 웹 서비스  
 - 기술:  
@@ -47,7 +47,7 @@
 - 역할: 웹 개발(FE/BE), 배포 및 운영  
 - Azure로 배포, FastAPI + Stable Diffusion 기반  
 
-### 🎵 음악 추천 모델의 음악 데이터 전처리 성능 분석
+### 🎵 [음악 추천 모델의 음악 데이터 전처리 성능 분석](https://github.com/pnucse-capstone/capstone-2023-1-21)
 - 기간: 2023.04 – 2023.11  
 - 내용: 플레이리스트 데이터 전처리 방법에 따른 음악 추천 시스템의 성능 비교 / Django 기반 음악 추천 웹 서비스  
 - 기술:  
@@ -62,6 +62,11 @@
 ## Certifications
 - 🛠️ 정보처리기사 | 2024.09.10
 - 🤖 AICE (AI Certificate for Everyone) | 2025.01.24
+
+---
+
+## ETC
+- 🪖 KATUSA 복무 | 2020.04.20 – 2021.10.25
 
 ---
 
