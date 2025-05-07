@@ -25,12 +25,12 @@
 ## 🚀 Projects
 
 ### 📡 [DABS: Daily AI Briefing Service](https://github.com/BrightAsh/Daily_AI_Briefing_Service)
-- 기간: 2025.04.28 – 2025.05.08 (~ing)  
-- 내용: LLM + RAG 기반 AI 뉴스 및 최신 AI 관련 논문 요약 및 리포팅 자동화 서비스  
+- 기간: 2025.04.28 – 2025.05.08
+- 내용: 사용자가 원하는 주제의 뉴스/블로그/논문 요약 에이전트 및 RAG 기반 에이전트 챗봇
 - 기술:  
   ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=LangChain&logoColor=white)
   ![RAG](https://img.shields.io/badge/RAG-FF9900?style=flat&logo=OpenAI&logoColor=white)  
-- 역할: 논문 PDF 파싱 및 VectorDB 저장 기능 구현  
+- 역할: 챗봇 에이전트 개발, 전체 파이프라인 및 UI 구축
 
 ### 📘 [Fiction2Toon: 생성형 AI를 이용한 도서 마케팅 서비스](https://github.com/gaeul-3041/Fiction2Toon)
 - 기간: 2024.12 – 2025.02  
