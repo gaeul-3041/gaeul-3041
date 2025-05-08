@@ -29,8 +29,14 @@
 - 내용: 사용자가 원하는 주제의 뉴스/블로그/논문 요약 에이전트 및 RAG 기반 에이전트 챗봇
 - 기술:  
   ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=LangChain&logoColor=white)
-  ![RAG](https://img.shields.io/badge/RAG-FF9900?style=flat&logo=OpenAI&logoColor=white)  
-- 역할: 챗봇 에이전트 개발, 전체 파이프라인 및 UI 구축
+  ![RAG](https://img.shields.io/badge/RAG-FF9900?style=flat&logo=OpenAI&logoColor=white)
+  ![Web Crawling](https://img.shields.io/badge/Web%20Crawling-0057B7?style=flat&logo=Google%20Chrome&logoColor=white)
+  ![Agent](https://img.shields.io/badge/Agent-0A192F?style=flat&logo=RobotFramework&logoColor=white)
+  ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=OpenAI&logoColor=white)
+  ![KoBART](https://img.shields.io/badge/KoBART-DC143C?style=flat&logo=HuggingFace&logoColor=white)
+  ![Transformer](https://img.shields.io/badge/Transformer-6A5ACD?style=flat&logo=PyTorch&logoColor=white)
+  ![Gradio](https://img.shields.io/badge/Gradio-FF6F61?style=flat&logo=Gradio&logoColor=white)
+- 역할: Gradio 기반 웹 UI 구현, 질의응답 챗봇 Agent 모델 개발
 
 ### 📘 [Fiction2Toon: 생성형 AI를 이용한 도서 마케팅 서비스](https://github.com/gaeul-3041/Fiction2Toon)
 - 기간: 2024.12 – 2025.02  
