@@ -9,16 +9,15 @@
 
 ## 💼 Experiences
 
-### 🏢 KT 미디어부문 체험형 인턴 | 2025.04.28 – 2025.06.04 (예정)
-- RAG, LangChain, MCP 등 LLM/Vision 부문의 최신 AI 기술 학습 및 관련 프로젝트 수행.  
-- 현업 프로젝트에 참여하여 OOO 기능 구현에 기여.
+### 🏢 KT 미디어부문 체험형 인턴 | 2025.04.28 – 2025.06.04 (ing)
+- RAG, LangChain, MCP 등 LLM 및 Vision 부문 최신 AI 기술 학습 및 관련 프로젝트 수행 중. 
 
 ### 🧠 KT AIVLE School 6기 – AI개발자 트랙 | 2024.09.03 – 2025.02.26  
 - 데이터 분석, 머신러닝/딥러닝, 웹 개발 등 실무 이론 및 프로젝트 중심 커리큘럼 이수.
 - 총 8회의 프로젝트 수행 및 4회의 팀 리딩 경험.
 
 ### 🎓 부산대학교 정보컴퓨터공학부 | 2018.03.02 – 2024.02.23  
-- 캡스톤 디자인 외 다양한 전공 기반 프로젝트 수행.
+- 캡스톤디자인을 비롯해 다양한 전공 기반 프로젝트 수행.
 
 ---
 
@@ -40,7 +39,7 @@
 
 ### 📘 [Fiction2Toon: 생성형 AI를 이용한 도서 마케팅 서비스](https://github.com/gaeul-3041/Fiction2Toon)
 - 기간: 2024.12 – 2025.02  
-- 내용: 도서 원문 데이터를 입력하면 웹툰 생성 AI를 통해 웹툰을 제작해주는 Spring 기반 웹 서비스  
+- 내용: 도서 원문 데이터를 입력하면 웹툰 생성 AI를 통해 웹툰을 제작해주는 Spring 기반 웹 서비스
 - 기술:  
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -50,8 +49,7 @@
   ![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-000000?style=flat&logo=OpenAI&logoColor=white)
   ![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC624?style=flat&logo=huggingface&logoColor=black)
   ![KoBART](https://img.shields.io/badge/KoBART-00599C?style=flat&logo=tensorflow&logoColor=white)  
-- 역할: 웹 개발(FE/BE), 배포 및 운영  
-- Azure로 배포, FastAPI + Stable Diffusion 기반  
+- 역할: Spring 기반 웹 서버 개발(FE/BE), Azure 배포 및 운영
 
 ### 🎵 [음악 추천 모델의 음악 데이터 전처리 성능 분석](https://github.com/pnucse-capstone/capstone-2023-1-21)
 - 기간: 2023.04 – 2023.11  
@@ -73,7 +71,7 @@
 ---
 
 ## ETC
-- 🪖 KATUSA 복무 | 2020.04.20 – 2021.10.25
+- 🛡️ KATUSA 복무 | 2020.04.20 – 2021.10.25
 
 ---
 
