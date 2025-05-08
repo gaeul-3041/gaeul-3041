@@ -45,10 +45,6 @@
   ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
   ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-  ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-  ![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-000000?style=flat&logo=OpenAI&logoColor=white)
-  ![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC624?style=flat&logo=huggingface&logoColor=black)
-  ![KoBART](https://img.shields.io/badge/KoBART-00599C?style=flat&logo=tensorflow&logoColor=white)  
 - 역할: Spring 기반 웹 서버 개발(FE/BE), Azure 배포 및 운영
 
 ### 🎵 [음악 추천 모델의 음악 데이터 전처리 성능 분석](https://github.com/pnucse-capstone/capstone-2023-1-21)
